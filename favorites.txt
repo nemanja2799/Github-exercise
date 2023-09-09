@@ -1,3 +1,9 @@
+Food:
 potato 
 tomato 
 pizza
+Movies:
+Inception
+The Wolf of the Wall Street
+Batman
+
